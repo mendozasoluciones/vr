@@ -1,0 +1,12 @@
+{
+    "slider":[
+    { "img": "banner_principal_01.png", "alt": "texto alterno", "href": "" },
+    { "img": "banner_principal_02.png", "alt": "texto alterno", "href": "https://www.minsalud.gov.co/Paginas/Consulta-afiliados.aspx" },
+    { "img": "banner_principal_03.png", "alt": "texto alterno", "href": "https://www.minsalud.gov.co/Paginas/Consulta-afiliados.aspx" },
+    { "img": "banner_principal_04.png", "alt": "texto alterno", "href": "" },
+    { "img": "banner_principal_05.png", "alt": "texto alterno", "href": "https://play.google.com/store/apps/details?id=com.jtc.core.interssiapp&hl=es_CO" },
+    { "img": "banner_principal_06.png", "alt": "texto alterno", "href": "" },
+    { "img": "banner_principal_07.png", "alt": "texto alterno", "href": "resources/ContenidoHabeas.pdf" },
+    { "img": "banner_principal_08.png", "alt": "texto alterno", "href": "" }
+  ]
+}
